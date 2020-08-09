@@ -1,6 +1,7 @@
 # Machine learning from disaster - Titanic predictions
 This notebook uses the dataset from kaggle and tries to predict the survivals of the titanic incident. The survival are based on many features such as age, sex, fare, embarked etc.
 Kaggle Competetion Link-> https://www.kaggle.com/c/titanic
+
 My Solution Link -> https://www.kaggle.com/datawarriors/easy-beginner-titanic-solution
 
 ## Preprocessing and Feature Engineering
