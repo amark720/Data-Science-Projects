@@ -10,7 +10,7 @@ If you are a researcher, journalist, or other interested member of the public, p
 
 The data set used to Visualize the Plots is the Covid19 data set, found here: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
 
-<img src="https://github.com/amark720/Data-Science-Projects/blob/master/Covid19%20EDA%20and%20Visualization/CononaVirus%20GIF.gif" alt="Landing Page" height="100%" width="100%">
+<img src="https://github.com/amark720/Data-Science-Projects/blob/master/Covid19%20EDA%20and%20Visualization/CononaVirus%20GIF.gif" alt="Landing Page" height="40%" width="40%">
 
 # Kaggle NoteBook Link:
 https://www.kaggle.com/datawarriors/simple-beginner-covid19-eda-visualization
