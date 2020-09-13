@@ -5,42 +5,51 @@
 ## Topics covered:
 
 ### REGRESSION:
-Simple Linear Regression
+* Simple Linear Regression
 
-Multiple Linear Regression
+* Multiple Linear Regression
 
-Polynomial Regression
+* Polynomial Regression
 
-Support Vector Regression
+* Support Vector Regression
 
-Decision Tree Regression
+* Decision Tree Regression
 
-Random Forest Regression
+* Random Forest Regression
 
 ### CLASSIFICATION:
-Logistic Regression
-K-Nearest Neighbor
-Support Vector Machines
-Kernel SVM
-Naive Bayes
-Decision Tree
-Random Forest
+* Logistic Regression
+
+* K-Nearest Neighbor
+
+* Support Vector Machines
+
+* Kernel SVM
+
+* Naive Bayes
+
+* Decision Tree
+
+* Random Forest
 
 ### CLUSTERING:
-K-Means
-Hierarchical
+* K-Means
+
+* Hierarchical
 
 ### REINFORCEMENT LEARNING
-Upper Confidence Bound
-Thompson Sampling
+* Upper Confidence Bound
+
+* Thompson Sampling
 
 ### NATURAL LANGUAGE PROCESSING
-Bag of words model
+* Bag of words model
 
 ### DEEP LEARNING
-Artificial Neural Networks
-Convolutional Neural Networks
+* Artificial Neural Networks
+
+* Convolutional Neural Networks
 
 ### DIMENSIONALITY REDUCTION
-Principal Component Analysis
-Linear Discrimant Analysis
+* Principal Component Analysis
+* Linear Discrimant Analysis
