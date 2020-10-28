@@ -11,7 +11,7 @@ Dataset Details: Dataset Characteristics: Timeseries Multivariant Number of Attr
 
 
 ## Screenshot:
-<img src="https://github.com/amark720/Data-Science-Projects/blob/master/Tableau%20Projects/Python%20SQL%20Tableau%20Employee%20Absenteeism/Screenshot.PNG" alt="Landing Page" height="50%" width="80%">
+<img src="https://github.com/amark720/Data-Science-Projects/blob/master/Tableau%20Projects/Python%20SQL%20Tableau%20Employee%20Absenteeism/Screenshot.PNG" alt="Landing Page" height="80%" width="100%">
 
 
 # Visit the Link below to view the Tableau Dashboard!
