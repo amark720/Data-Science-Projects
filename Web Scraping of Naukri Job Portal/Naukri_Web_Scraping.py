@@ -11,7 +11,7 @@ driver = webdriver.Chrome()
 wait = WebDriverWait(driver, 20)
 
 # Update the URL of Naukri Page! ( Make Sure that the page link which you're putting must be a job listing page and it must have Next page buttons. )
-driver.get("https://www.naukri.com/jobs-in-chennai-95")
+driver.get("https://www.naukri.com/jobs-in-chennai-1")
 
 count = 1000  # Update the Number of Vacancy count you want to scrape.
 
