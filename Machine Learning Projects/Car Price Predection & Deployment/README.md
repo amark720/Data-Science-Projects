@@ -1,6 +1,6 @@
 # Car-Price-Prediction
 
-CarPricePredictor helps to predict the price of the car based on the "Random Forest" Algorithm. As learning model a sample learning model is provided based on which the car price is predicted with the different attributes.
+CarPricePredictor helps to predict the price of the car based on the "Random Forest" Algorithm. For prediction, a sample trained model is provided based on which the car price is predicted using the different attributes provided by user.
 
 <a href="https://car-price-prediction-by-amar.herokuapp.com" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Used%20Car%20Price%20Prediction.png" width=60% height=40% > </a>
 
