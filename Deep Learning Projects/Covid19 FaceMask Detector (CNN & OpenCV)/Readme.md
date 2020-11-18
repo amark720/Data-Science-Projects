@@ -29,12 +29,17 @@ This dataset consists of __1006 images__ belonging to two classes:
 
 
 
-## 🚀&nbsp; Installation
+## 🚀 Installation
 1. Download the files in this repository and extract them.
-2. Run Face_Mask_Detection.ipynb file first 
+2. Run Face_Mask_Detection.ipynb file first using Google colab:-
+Colab File link - https://colab.research.google.com/drive/1rX32L-EHFvdtulPbVlwllBve8bdKwC_m#scrollTo=pO9U0q_KNDsF
+
 3. Running the above .ipynb file will generate Model.h5 file.
-4. Now Run Mask.py file
-5. Done.
+4. Download that Model.h5 file from Colab to local Machine.
+5. Now Run Mask.py file
+6. Done.
+
+Note: Make sure that you're using the same Tensorflow and Keras version on your local machine that you're using on Google Colab otherwise you'll get error.
 
 ## :key: Results
 
