@@ -31,9 +31,8 @@ This dataset consists of __1006 images__ belonging to two classes:
 
 ## 🚀 Installation
 1. Download the files in this repository and extract them.
-2. Run Face_Mask_Detection.ipynb file first using Google colab:-
-<br>
-Colab File link - https://colab.research.google.com/drive/1rX32L-EHFvdtulPbVlwllBve8bdKwC_m#scrollTo=pO9U0q_KNDsF
+2. Run Face_Mask_Detection.ipynb file first using Google colab:-<br>
+* Colab File link - https://colab.research.google.com/drive/1rX32L-EHFvdtulPbVlwllBve8bdKwC_m#scrollTo=pO9U0q_KNDsF
 
 3. Running the above .ipynb file will generate Model.h5 file.
 4. Download that Model.h5 file from Colab to local Machine.
