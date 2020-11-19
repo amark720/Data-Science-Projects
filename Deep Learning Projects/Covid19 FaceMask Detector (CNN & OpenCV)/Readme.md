@@ -32,6 +32,7 @@ This dataset consists of __1006 images__ belonging to two classes:
 ## 🚀 Installation
 1. Download the files in this repository and extract them.
 2. Run Face_Mask_Detection.ipynb file first using Google colab:-
+<br>
 Colab File link - https://colab.research.google.com/drive/1rX32L-EHFvdtulPbVlwllBve8bdKwC_m#scrollTo=pO9U0q_KNDsF
 
 3. Running the above .ipynb file will generate Model.h5 file.
@@ -43,7 +44,8 @@ Note: Make sure that you're using the same Tensorflow and Keras version on your 
 
 ## :key: Results
 
-#### Our model gave 92% accuracy for Face Mask Detection after training via <code>tensorflow==2.3.0</code>
+#### Our model gave 92% accuracy for Face Mask Detection after training via <code>tensorflow==2.3.0</code><br>
+The model can further be Improved by doing parameter tuning.
 
 ![](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
 
