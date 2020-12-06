@@ -1,5 +1,5 @@
 # Deep-Learning-Car-Brand
-classifies cars of different brands using transfer learning technique Resnet-50. Here Transfer learning recognizes car brands of 3 different brands(i.e. Audi/Lamborghini/Mercedes). For the training set we used 80 images and for validation set 52 images. 
+"Car Brand Classifier App" Classifies cars of different brands using transfer learning technique Resnet-50. Here Transfer learning recognizes car brands of 3 different brands(i.e. Audi/Lamborghini/Mercedes). For the training set we used 80 images and for validation set 52 images. 
 
 <br>
 
