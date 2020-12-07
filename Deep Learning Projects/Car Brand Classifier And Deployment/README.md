@@ -25,9 +25,9 @@ This project uses Flask for the web app and its deployment is done on AWS Ec2.
 <a href="http://ec2-18-220-203-245.us-east-2.compute.amazonaws.com:8080" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Car%20Brand%20Classifier%20Screenshot2.PNG" width=80% height=40% > </a>
 
 #### Improvements
-* Here I've used a very less amount of images to train the model. So, the Model can be improved further by adding more images to the training set. 
+* Here we've used a very less amount of images to train the model. So, the Model can be improved further by adding more images to the training set. 
 * We can add more Classes of Images to help predecting Cars of many Brands.
-* Adding more Layers into Neural Network will further improve the Accuracy. 
+* Adding more Layers and Epocs into Neural Network will further improve the Accuracy. 
 
 
 #### Feel Free to contact me at➛ amark720@gmail.com for any help related to this Project!
