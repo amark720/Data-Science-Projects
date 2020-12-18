@@ -7,7 +7,7 @@ CarPricePredictor helps to predict the price of the car based on the "Random For
 
 ### Use:
 For selling a used car, its price can be predicted by giving 
-some attributes. e.g. Car Model, total miles, engine type. Trained data 
+some attributes. e.g. Car Model, total miles, engine type. Then the trained data 
 will be provided to our system to predict the price for new data.
 
 ## Live Project Link: https://car-price-prediction-by-amar.herokuapp.com
