@@ -1,9 +1,7 @@
 # Password Strength Classifier Using NLP and Logistic Regression.
 The task is to check Password strength using Logistic Regression model. For Processing the text data I've used TF-IDF which is a NLP technique to Preprocess the text data into vectors for ML models. It shows three values(0 , 1 , 2) i.e. 0 for weak, 1 for medium, 2 for strong. Strength of the password based on rules(such as containing digits, special symbols , etc.)
 
-### Dataset Contains - 2 Columns(Password and Strength) Password - 670k unique values for password collected online Strength - three values(0 , 1 , 2)
-
-###How to Run the code:
+### How to Run the code:
 
 Download the .ipynb file and dataset file into your system.
 Open that on either Jupyter Notebook or in Google Colab and change the dataset file path and run.
