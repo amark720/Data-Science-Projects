@@ -1,6 +1,6 @@
-# Natural Language Processing Projects
+# Natural Language Processing Projects<br>
 
-## This Repository consists NLP Projects made by Me.
+### This Repository consists NLP Projects made by Me.
 
 * Visit each folder to access all the Projects in detail.
 
