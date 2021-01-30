@@ -8,7 +8,8 @@
 
 ### Dataset:
 
-<a href="https://github.com/amark720/Data-Science-Projects/tree/master/Computer%20Vision%20and%20OpenCV%20Projects/Compare%202%20Images%20using%20OpenCV%20and%20PIL" target="_blank"><img src="https://github.com/amark720/Data-Science-Projects/blob/master/Computer%20Vision%20and%20OpenCV%20Projects/Compare%202%20Images%20using%20OpenCV%20and%20PIL/Pre.jpg" width=350 height=300 > Previous Image </a> <a href="https://github.com/amark720/Data-Science-Projects/tree/master/Computer%20Vision%20and%20OpenCV%20Projects/Compare%202%20Images%20using%20OpenCV%20and%20PIL" target="_blank"><img src="https://github.com/amark720/Data-Science-Projects/blob/master/Computer%20Vision%20and%20OpenCV%20Projects/Compare%202%20Images%20using%20OpenCV%20and%20PIL/Post.jpg" width=350 height=300 > New Image</a>  
+####            Previous Image                                              New Image
+<a href="https://github.com/amark720/Data-Science-Projects/tree/master/Computer%20Vision%20and%20OpenCV%20Projects/Compare%202%20Images%20using%20OpenCV%20and%20PIL" target="_blank"><img src="https://github.com/amark720/Data-Science-Projects/blob/master/Computer%20Vision%20and%20OpenCV%20Projects/Compare%202%20Images%20using%20OpenCV%20and%20PIL/Pre.jpg" width=350 height=300 > </a> <a href="https://github.com/amark720/Data-Science-Projects/tree/master/Computer%20Vision%20and%20OpenCV%20Projects/Compare%202%20Images%20using%20OpenCV%20and%20PIL" target="_blank"><img src="https://github.com/amark720/Data-Science-Projects/blob/master/Computer%20Vision%20and%20OpenCV%20Projects/Compare%202%20Images%20using%20OpenCV%20and%20PIL/Post.jpg" width=350 height=300 > </a>  
 
 ### My Blogs:
 
