@@ -11,6 +11,8 @@ This is a program in Python to detect the difference in the 2 images (Pre.jpg an
 
 ####        &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   Previous Image &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; New Image
 <a href="https://www.kaggle.com/datawarriors/compare-2-images" target="_blank"><img src="https://github.com/amark720/Data-Science-Projects/blob/master/Computer%20Vision%20and%20OpenCV%20Projects/Compare%202%20Images%20using%20OpenCV%20and%20PIL/Pre.jpg" width=400 height=300 > </a> <a href="https://www.kaggle.com/datawarriors/compare-2-images" target="_blank"><img src="https://github.com/amark720/Data-Science-Projects/blob/master/Computer%20Vision%20and%20OpenCV%20Projects/Compare%202%20Images%20using%20OpenCV%20and%20PIL/Post.jpg" width=400 height=300 > </a>  
+!--------- We Need to Find the Difference Between both the Above TWO Images. ---------!
+
 
 ### Output Screenshot:
 
