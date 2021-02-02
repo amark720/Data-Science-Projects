@@ -6,4 +6,7 @@ Here I've used Python+Selenium for doing web scraping and Stored Vacancy details
 [![Demo Doccou alpha](https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/ScreenRecording%20Preview.gif)](https://youtu.be/KkRC8GODySI)
 ### Full ScreenRecording➛ https://youtu.be/KkRC8GODySI
 
+**Note:** You've to Download the latest ChromeDriver.exe from this link - (https://chromedriver.chromium.org/downloads) and after
+downloading, extract it and keep that Chromedriver.exe into the same folder from where you'll be going to run this Python file.
+
 #### Feel Free to contact me at➛ amark720@gmail.com for any help related to this Project!!
