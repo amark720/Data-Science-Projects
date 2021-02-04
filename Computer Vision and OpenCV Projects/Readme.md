@@ -7,7 +7,7 @@
 • Datasets are provided in each of the folders above, and the solution to the problem statements as well.<br>
 • Visit each folder to access the Projects in detail.
 
-<img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/ComputerVision_Banner.png" alt="Landing Page" height="50%" width="70%"/ >
+<img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/ComputerVision_Banner.png" alt="Landing Page" height="50%" width="70%" />
 
 
 #### Feel Free to contact me at➛ amark720@gmail.com for any help related to Projects in this Repository!
