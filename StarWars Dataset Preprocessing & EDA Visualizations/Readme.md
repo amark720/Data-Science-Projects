@@ -24,3 +24,7 @@ If you are a researcher, journalist, or other interested member of the public, p
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img src="https://github.com/amark720/Data-Science-Projects/blob/master/StarWars%20Dataset%20Preprocessing%20%26%20EDA%20Visualizations/Screenshot_moviesSeen.PNG" alt="Landing Page" height="60%" width="80%">
 
+
+### Don't forget to ⭐ the repository, if it helped you in anyway.
+
+#### Feel Free to contact me at➛ databoyamar@gmail.com for any help related to Projects in this Repository!
