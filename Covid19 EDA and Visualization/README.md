@@ -14,3 +14,7 @@ The data set used to Visualize the Plots is the Covid19 data set, found here: ht
 
 # Kaggle NoteBook Link:
 https://www.kaggle.com/datawarriors/simple-beginner-covid19-eda-visualization
+
+### Don't forget to ⭐ the repository, if it helped you in anyway.
+
+#### Feel Free to contact me at➛ databoyamar@gmail.com for any help related to Projects in this Repository!
