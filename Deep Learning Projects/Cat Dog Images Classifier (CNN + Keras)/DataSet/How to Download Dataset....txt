@@ -1,0 +1,4 @@
+The dataset size is too large to upload. However I can upload that dataset here using GitBash but I dont want to OverLoad my Repo with Large Files. You can Download the Entire code and Dataset from This Repository-> https://github.com/MonicaGS/Machine-Learning-A-Z
+
+Just download the whole code from the repository link given above..
+Then navigate to folder "Part 8- Deep Learning" -> " Section 40 - Convolutional Neural Networks (CNN)/Convolutional_Neural_Networks " then Take the dataset folder from there which will include a total of 10000 images of dogs and cats.
