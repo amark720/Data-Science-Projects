@@ -9,4 +9,6 @@
 
 <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DatascienceMainRepoSS.png" alt="Landing Page" height="50%" width="70%" />
 
-#### Feel Free to contact me at➛ amark720@gmail.com for any help related to Projects in this Repository!!
+### Don't forget to ⭐ the repository, if it helped you in anyway.
+
+#### Feel Free to contact me at➛ databoyamar@gmail.com for any help related to Projects in this Repository!
