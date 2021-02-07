@@ -1,6 +1,6 @@
 The dataset size is too large to upload. However I can upload that dataset here using GitBash,
 but I dont want to OverLoad my Repo with Large Files.
-ou can Download the Entire code and Dataset from
+You can Download the Entire code and Dataset from
 This Repository-> https://github.com/MonicaGS/Machine-Learning-A-Z
 
 Just download the whole code from the repository link given above..
