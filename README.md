@@ -9,6 +9,8 @@
 
 <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DatascienceMainRepoSS.png" alt="Landing Page" height="50%" width="70%" />
 
-### Don't forget to ⭐ the repository, if it helped you in anyway.
+### Don't forget to ⭐ the repository, if it helped you in anyway.<br>
 
+### Repo Stats:
+[![GitHub](https://img.shields.io/github/followers/amark720?style=social)](https://github.com/amark720)  &ensp;  [![GitHub](https://img.shields.io/github/stars/amark720/Data-Science-Projects?style=social)](https://github.com/amark720/Data-Science-Projects)  &ensp;  [![GitHub](https://img.shields.io/github/forks/amark720/Data-Science-Projects?style=social)](https://github.com/amark720/Data-Science-Projects)
 #### Feel Free to contact me at➛ databoyamar@gmail.com for any help related to Projects in this Repository!
