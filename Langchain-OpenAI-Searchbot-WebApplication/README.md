@@ -12,11 +12,12 @@ This project uses Streamlit for the web app page and we can deploy it using any 
 
 #### Landing Page-
 
-<a href="http://ec2-18-220-203-245.us-east-2.compute.amazonaws.com:8080" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Car%20Brand%20Classifier%20Screenshot1.PNG" width=80% height=40% > </a>
+<img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/celebrity-search-app-1.jpg" width=80% height=40% >
 
 #### Result-
 
-<a href="http://ec2-18-220-203-245.us-east-2.compute.amazonaws.com:8080" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Car%20Brand%20Classifier%20Screenshot2.PNG" width=80% height=40% > </a>
+<img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/celebrity-search-app-2.jpg" width=80% height=40% >
+<img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/celebrity-search-app-3.jpg" width=80% height=40% >
 
 #### Improvements
 * Here we've used a very less prompts for fetching the results. So, the app can be improved further by adding more prompts regarding various information about the celebrity.
