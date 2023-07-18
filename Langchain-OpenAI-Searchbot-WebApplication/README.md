@@ -1,4 +1,4 @@
-## Celebrity Information Searching ChatBot Web Application
+## Celebrity Information Searching Web Application
 "Celebrity Information Searching web Application" takes Celebrity name as input and will reply with the brief information regarding that celebrity including their Date of Birth. Along with that it will also give 5 major events happened around the DOB of that celebrity in the world. We have used Streamlit for web app interface and OpenAI API and Langchain for fetching results using several in-code prompts. 
 
 <br>
