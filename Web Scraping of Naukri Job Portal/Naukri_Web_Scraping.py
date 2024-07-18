@@ -13,15 +13,15 @@ wait = WebDriverWait(driver, 20)
 # Update the URL of Naukri Page! ( Make Sure that the page link which you're putting must be a job listing page and it must have Next page buttons. )
 driver.get("https://www.naukri.com/jobs-in-chennai-1")
 
-count = 1000  # Update the Number of Vacancy count you want to scrape.
+count = 100  # Update the Number of Vacancy count you want to scrape.
 
-index, new_index, i = '0', 1, 0  # This the the index variable of the elements from which data will be Scraped
+index, new_index, i = '0', 1, 0  # index variable of the elements from which data will be Scraped
 # Xpaths of the various element from which data will be scraped.
-heading_xpath = '(//*[@class="jobTuple bgWhite br4 mb-8"])['+index+']/div/div/a'
-link_xpath = '(//*[@class="jobTuple bgWhite br4 mb-8"])['+index+']/div/div/a'
-subheading_xpath = '(//*[@class="jobTuple bgWhite br4 mb-8"])['+index+']/div/div/div/a'
-experience_xpath = '(//*[@class="jobTuple bgWhite br4 mb-8"])['+index+']/div/div/ul/li[1]/span'
-salary_xpath = '(//*[@class="jobTuple bgWhite br4 mb-8"])['+index+']/div/div/ul/li[2]/span'
+heading_xpath = '(//*[@class="srp-jobtuple-wrapper"])['+index+']/div/div/a'
+link_xpath = '(//*[@class="srp-jobtuple-wrapper"])['+index+']/div/div/a'
+subheading_xpath = '(//*[@class="srp-jobtuple-wrapper"])['+index+']/div/div[2]//a'
+experience_xpath = '(//*[@class="srp-jobtuple-wrapper"])['+index+']/div/div[3]/div/span[1]/span/span'
+salary_xpath = '(//*[@class="srp-jobtuple-wrapper"])['+index+']/div/div[3]/div/span[2]/span/span'
 
 csv_file = open('Naukri_scrape.csv', 'a', encoding="utf-8", newline='')
 csv_writer = csv.writer(csv_file)
@@ -74,6 +74,8 @@ while i < count:
             break
     if i >= count:
         break
+    element = driver.find_element(By.XPATH, '//*[text() = "Next"]').location_once_scrolled_into_view
+    driver.execute_script("window.scrollBy(0,-120)")
     wait.until(EC.element_to_be_clickable((By.XPATH, '//*[text() = "Next"]'))).click()
     new_index = 1
 csv_file.close()
