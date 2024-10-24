@@ -10,9 +10,6 @@
 
 This project uses Flask for the web app and its deployment is done on AWS Ec2.
 
-## Live Project Link: http://ec2-18-220-203-245.us-east-2.compute.amazonaws.com:8080
-
-
 
 ### ScreenShots:
 
