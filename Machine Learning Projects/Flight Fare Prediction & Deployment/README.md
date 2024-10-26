@@ -26,8 +26,6 @@ The dataset is taken from kaggle. This dataset is given by MachineHack and conta
 
 This project uses Flask for the web app and its deployment is done on Heroku.
 
-## Live Project Link: https://flight-fare-prediction-by-amar.herokuapp.com
-
 #### Other Info
 This project is a modified version of an older project on the same topic.The original project is available <a href="https://github.com/Mandal-21">here</a>.
 
