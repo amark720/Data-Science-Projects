@@ -1,6 +1,0 @@
-Download Model.h5 File using the Below link-
-
-https://github.com/amark720/Car-Brand-Classifier-And-Deployment/blob/main/model_resnet50.h5
-
-
-Ps- GitHub is not allowing to upload files which is more than 25 MB to Subfolders that's why I've given the above main deployed Model link from where you can download the Model.h5 file.
