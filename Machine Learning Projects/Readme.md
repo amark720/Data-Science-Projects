@@ -4,7 +4,7 @@ Welcome to the **Machine Learning Projects** folder, a part of my **Data Science
 
 #### 🔗 **[Click Here to See My Full ML Project's Repository! 👈](https://github.com/amark720/Machine-Learning-Projects)**  
 
-## About the Original Repository  
+## About the Original Repository:  
 The **Machine Learning Projects** repository contains a variety of projects showcasing different algorithms, techniques, and real-world applications. These projects highlight my expertise in:  
 - Supervised and Unsupervised Learning  
 - Regression and Classification Models  
@@ -15,7 +15,7 @@ Each project is documented with detailed explanations, code snippets, and result
 
 #### 🔗 **[View My Full Machine Learning Project Collection—Click Now! 👈](https://github.com/amark720/Machine-Learning-Projects)**  
 
-## Highlights of the Original Repository  
+## Highlights of the Original Repository:  
 - 📊 **Predictive Analytics:** Projects like house price prediction, stock market analysis, and more.  
 - 🤖 **Machine Learning Algorithms:** Implementation of Random Forest, Gradient Boosting, SVM, and more.  
 - 🛠️ **Practical Applications:** Real-world projects solving practical problems using machine learning techniques.  
@@ -23,11 +23,11 @@ Each project is documented with detailed explanations, code snippets, and result
 
 #### 🔗 **[Click Here to Access My Complete Machine Learning Repository! 👈](https://github.com/amark720/Machine-Learning-Projects)**
 
-## Stay Connected  
+## Stay Connected:  
 Feel free to explore, fork, or contribute to the projects! If you have any questions or feedback, don’t hesitate to reach out.  
 
 📧 **Email:** amark720@gmail.com  
-📂 **View All ML Projects:** [https://github.com/amark720/Machine-Learning-Projects](https://github.com/amark720/Machine-Learning-Projects)  
+📂 **View All Machine Learning Projects:** <a href="https://github.com/amark720/Machine-Learning-Projects" target="_blank"><img align="center" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Click-Here-btn.gif" width="150" height="35" ></a> 
 
 🙏 Thank you for visiting this folder! Head over to the [**Original Repository**](https://github.com/amark720/Machine-Learning-Projects) to dive deeper into the world of Machine Learning. 🚀  
 
