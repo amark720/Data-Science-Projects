@@ -1,15 +1,37 @@
-# Computer Vision & OpenCV Projects!
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase" /> <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+# Computer Vision Projects! 👁️📸  
 
+Welcome to the **Computer Vision and OpenCV Projects** folder, a part of my **Data Science Projects** repository! This folder is a quick preview of my fascinating projects in the field of Computer Vision. To explore all these projects in detail, please visit the [**Original Repository**](https://github.com/amark720/Computer-Vision-and-OpenCV-Projects).  
 
-## Overview
-• This Repository consists Computer Vision Projects made by Me.<br/>
-• Datasets are provided in each of the folders above, and the solution to the problem statements as well.<br>
-• Visit each folder to access the Projects in detail.
+#### 📂 **View All Computer Vision Projects:** <a href="https://github.com/amark720/Computer-Vision-and-OpenCV-Projects" target="_blank"><img align="center" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Click-Here-btn.gif" width="150" height="35" ></a>  
 
-<img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/ComputerVision_Banner.png" alt="Landing Page" height="50%" width="70%" />
+## About the Original Repository:  
+The **Computer Vision and OpenCV Projects** repository is a showcase of diverse projects that demonstrate my expertise in image processing, computer vision techniques, and model deployment. These projects include:  
+- **Car Brand Classifier:** A machine learning model deployed to identify car brands from images.  
+- **Covid-19 Face Mask Detector:** Detects face masks using CNN and OpenCV.  
+- **Image Background Remover:** An app for removing image backgrounds efficiently.  
+- **Image Classifier with ResNet50:** Implements transfer learning for image classification tasks.  
+- **OpenCV Face Detection:** Real-time face detection using OpenCV's Haar cascades.  
+- **Scraping Text from Images:** Extracts text data from images using OCR and preprocessing.  
+- **Text Recognizer Android App:** An Android app leveraging Firebase AutoML for text recognition.  
+- And many more innovative projects!  
 
+Each project is documented with detailed explanations, code, and results to ensure clarity and ease of understanding.  
 
-### Don't forget to ⭐ the repository, if it helped you in anyway.
+#### 🔗 **[View My Full Computer Vision Project Collection—Click Now! 👈](https://github.com/amark720/Computer-Vision-and-OpenCV-Projects)**  
 
-#### Feel Free to contact me at➛ databoyamar@gmail.com for any help related to Projects in this Repository!
+## Highlights of the Original Repository:  
+- 🏎️ **Object Classification:** Car brand classifier and general-purpose image classification.  
+- 🖼️ **Image Processing:** Projects like background removal and image comparison using OpenCV and PIL.  
+- 🧍 **Face Detection and Recognition:** Real-time face detection and mask detection using OpenCV.  
+- 📜 **Text Extraction:** Extracting text data from images using OCR and building text recognition apps.  
+- 💡 **Deployment:** Deploying applications for real-world scenarios, including Android apps and web apps.  
+
+#### 🔗 **[Click Here to Access My Complete Computer Vision Repository! 👈](https://github.com/amark720/Computer-Vision-and-OpenCV-Projects)**  
+
+## Stay Connected:  
+Feel free to explore, fork, or contribute to the projects! If you have any questions or feedback, don’t hesitate to reach out.  
+
+📧 **Email:** amark720@gmail.com  
+🌐 **Website:** [**AmarKumar.in**](https://AmarKumar.in)  
+
+🙏 Thank you for visiting this folder! Head over to the [**Original Repository**](https://github.com/amark720/Computer-Vision-and-OpenCV-Projects) to dive deeper into the exciting world of Computer Vision and OpenCV. 👁️📸  
