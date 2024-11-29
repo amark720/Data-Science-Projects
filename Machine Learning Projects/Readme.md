@@ -2,7 +2,7 @@
 
 Welcome to the **Machine Learning Projects** folder, a part of my **Data Science Projects** repository! This folder is a placeholder that provides a quick overview of my Machine Learning projects. To explore all my exciting ML projects in detail, please visit the [**Original Repository**](https://github.com/amark720/Machine-Learning-Projects).
 
-#### 🔗 **[Click Here to See My Full ML Project's Repository! 👈](https://github.com/amark720/Machine-Learning-Projects)**  
+#### 📂 **View All Machine Learning Projects:** <a href="https://github.com/amark720/Machine-Learning-Projects" target="_blank"><img align="center" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Click-Here-btn.gif" width="150" height="35" ></a> 
 
 ## About the Original Repository:  
 The **Machine Learning Projects** repository contains a variety of projects showcasing different algorithms, techniques, and real-world applications. These projects highlight my expertise in:  
@@ -27,7 +27,7 @@ Each project is documented with detailed explanations, code snippets, and result
 Feel free to explore, fork, or contribute to the projects! If you have any questions or feedback, don’t hesitate to reach out.  
 
 📧 **Email:** amark720@gmail.com  
-📂 **View All Machine Learning Projects:** <a href="https://github.com/amark720/Machine-Learning-Projects" target="_blank"><img align="center" src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Click-Here-btn.gif" width="150" height="35" ></a> 
+🌐 **Website:** [**AmarKumar.in**](https://AmarKumar.in)
 
 🙏 Thank you for visiting this folder! Head over to the [**Original Repository**](https://github.com/amark720/Machine-Learning-Projects) to dive deeper into the world of Machine Learning. 🚀  
 
